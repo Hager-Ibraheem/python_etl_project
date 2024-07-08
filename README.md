@@ -8,13 +8,13 @@ This project performs ETL (Extract, Transform, Load) operations to compile a lis
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 
-## Installation
+### Installation
 To run this project, ensure you have the following installed:
 - Python 3.x
 - pandas
 - sqlite3
 
-#### **Usage**
+### **Usage**
 ```markdown
 1. Ensure you have the exchange rate CSV file named exchange_rate.csv in the project directory.
 2. Run the script.
@@ -24,7 +24,7 @@ To run this project, ensure you have the following installed:
    3. A log file (code_log.txt) recording the progress of the ETL process.
 ```
 
-#### **File Descriptions**
+### **File Descriptions**
 ```markdown
  - `banks_project.py`: The main script performing the ETL operations.
  - `exchange_rate.csv`: A CSV file containing the exchange rates.
