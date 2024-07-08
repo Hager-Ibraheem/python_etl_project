@@ -5,4 +5,5 @@ This project compiles a list of the top 10 largest banks in the world ranked by 
 
 ## Usage
 1-Ensure you have the exchange rate CSV file named exchange_rate.csv in the project directory.
+
 2-Run the script.
