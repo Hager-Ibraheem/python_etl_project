@@ -26,9 +26,9 @@ To run this project, ensure you have the following installed:
 
 #### **File Descriptions**
 ```markdown
- - banks_project.py: The main script performing the ETL operations.
- - exchange_rate.csv: A CSV file containing the exchange rates.
- - Largest_banks_data.csv: The output CSV file with the processed bank data in multiple currencies.
- - Banks.db: The SQLite database file containing the processed bank data table.
- - code_log.txt: A log file capturing the progress of the ETL operations.
+ - `banks_project.py`: The main script performing the ETL operations.
+ - `exchange_rate.csv`: A CSV file containing the exchange rates.
+ - `Largest_banks_data.csv`: The output CSV file with the processed bank data in multiple currencies.
+ - `Banks.db`: The SQLite database file containing the processed bank data table.
+ - `code_log.txt`: A log file capturing the progress of the ETL operations.
  ```
