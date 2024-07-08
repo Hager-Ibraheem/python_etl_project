@@ -14,16 +14,18 @@ To run this project, ensure you have the following installed:
 - pandas
 - sqlite3
 
+#### **Usage**
+```markdown
 ## Usage
 1-Ensure you have the exchange rate CSV file named exchange_rate.csv in the project directory.
-
 2-Run the script.
-
 3-The output will be:
  1.A CSV file containing the processed information.
  2.A database file with the processed data stored in a table.
  3.A log file (code_log.txt) recording the progress of the ETL process.
 
+#### **File Descriptions**
+```markdown
 ## File Descriptions
 
  1.banks_project.py: The main script performing the ETL operations.
