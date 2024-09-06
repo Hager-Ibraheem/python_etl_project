@@ -1,4 +1,4 @@
-# banks_project
+# python_etl_project
 
 ## Description
 This project performs ETL (Extract, Transform, Load) operations to compile a list of the top 10 largest banks in the world ranked by market capitalization in billion USD. It then transforms the data into different currencies (USD, GBP, EUR, and INR) based on exchange rates provided in a CSV file. The processed data is saved locally in a CSV format and as a database table, which can be queried. The progress of the code at different stages is logged in a file named `code_log.txt`.
